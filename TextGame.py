@@ -75,6 +75,7 @@ def the_bedroom():
 	else:
 		error(the_bedroom)
 
+# go east to the stairs
 def the_stairs():
 	print "Under construction."
 
